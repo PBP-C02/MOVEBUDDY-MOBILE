@@ -1,16 +1,31 @@
-# move_buddy
+# MOVEBUDDY-MOBILE
 
-A new Flutter project.
+## DAFTAR ANGGOTA:
+- Ari Darrell Muljono
+- Made Shandy Krisnanda
+- Elliot Randy Panggabean
+- Ghozam Muliawan Solihin
+- Dimas Abyan Diasta
 
-## Getting Started
+## DESKRIPSI APLIKASI
+- MoveBuddy merupakan aplikasi yang dapat digunakan untuk mencari teman, pelatih, event dan juga lapangan untuk berolahraga dengan minat yang sama.
 
-This project is a starting point for a Flutter application.
+## DAFTAR MODUL
+- Auth, Homepage, & Profile -> Elliot
+- Find Court -> Shandy
+- Find Events -> Dimas
+- Find Coach -> Ghozam
+- Find Sport Partner -> Darrell
+- UI/UX -> Elliot
 
-A few resources to get you started if this is your first Flutter project:
+## USER PERSONA
+- User Biasa -> User biasa dapat mencari teman bermain, mencari coach pribadi, mencari event untuk berolahraga bersama serta mencari lapangan untuk bermain.
+- Pelatih -> Mendapat penghasilan tambahan dari user yang berminat untuk menyewa jasa mereka sebagai pelatih untuk olahraga tertentu.
+- Penyelenggara Event -> Dapat menggunakan fitur Event sebagai wadah untuk mempromosikan event yang akan diselenggarakan agar banyak yang ikut eventya.
+- Penyedia Lapangan -> Dapat mendaftarkan lapangan mereka sehingga dapat dibook oleh orang yang ingin berolahraga.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ALUR PENGINTEGRASIAN
+- Backend yang telah dibuat di website seperti authentication, database, POST, dan sebagainya dipakai juga sebagai backend untuk mobile app flutter. Integrasi dipanggil dengan cara fetch API dengan URL yang telah dirun oleh Django Web
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## LINK FIGMA:
+https://www.figma.com/design/ol5mnZcheWNLSvPw3tdNUb/Kelompok-C02-%7C-Proyek-Pemrograman-Berbasis-Platform-Mobile?node-id=0-1&t=tFTYpt0BRcJSzLqJ-1
