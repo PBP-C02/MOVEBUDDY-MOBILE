@@ -1,4 +1,5 @@
 # MOVEBUDDY-MOBILE
+- Fitur Coach
 
 ## DAFTAR ANGGOTA:
 - Ari Darrell Muljono
